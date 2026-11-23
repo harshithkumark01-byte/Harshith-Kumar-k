@@ -93,6 +93,7 @@ I am a BCA graduate and aspiring Data Scientist with a strong interest in Data A
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
+| 🎙️ **VoiceMate AI – AI-Powered Voice Assistant** | `Python` `Speech Recognition` `NLP` `Streamlit` | Intelligent voice-driven assistant supporting real-time speech recognition, natural language processing, and automated conversational task execution. |
 | 🧬 **[GeneWeaver](https://github.com/harshithkumark01-byte/GeneWeaver)** | `Python` `CUDA` `Dask` `Textual` | High-performance CRISPR DNA candidate screening and sequence alignment engine supporting CPU, GPU acceleration, and distributed computing. |
 | ⚡ **[ChronosMatch](https://github.com/harshithkumark01-byte/ChronosMatch)** | `Python` `Cython` | High-frequency trading order matching engine designed with optimized Cython modules for low-latency financial execution. |
 | 🏏 **IPL Data Analysis Dashboard (2008–2025)** | `Python` `Pandas` `Plotly` `Streamlit` `Power BI` | Interactive data analytics dashboard visualizing player stats, match dynamics, team comparisons, and historical trends across 18 IPL seasons. |
